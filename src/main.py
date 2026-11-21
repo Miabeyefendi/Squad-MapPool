@@ -2,8 +2,8 @@
 
     python src/main.py
 
-Writes src/configs/pools/, design/charts/ and src/configs/results.json, then replaces the
-blocks between <!-- BEGIN:x --> and <!-- END:x --> in README.md.
+Writes src/configs/pools/, design/charts/, src/configs/results.json and the release zips in
+releases/, then replaces the blocks between <!-- BEGIN:x --> and <!-- END:x --> in README.md.
 """
 import json
 import os
@@ -16,7 +16,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from core import model  # noqa: E402
 from core.model import MAPS, TOP3, TOP5, SHARE, LAYERS, LAYER_B, STATS, size_class, BIOME  # noqa: E402
 from core.pools import build, best, trend  # noqa: E402
-from utils import svg  # noqa: E402
+from utils import release, svg  # noqa: E402
 
 ROOT = os.path.dirname(model.ROOT)
 POOL_DIR = os.path.join(ROOT, "src", "configs", "pools")
@@ -208,9 +208,14 @@ def main():
         json.dump({k: {a: (round(b, 2) if isinstance(b, float) else b) for a, b in v.items()}
                    for k, v in res.items()}, f, indent=1)
     charts(pools, res)
+    rel_dir = os.path.join(ROOT, "releases")
+    sums = release.build_zips(pools, POOL_DIR, rel_dir, res)
+    with open(os.path.join(rel_dir, "RELEASE-NOTES.md"), "w", encoding="utf-8", newline="\n") as f:
+        f.write(release.notes(pools, res))
     if os.path.exists(README):
         with open(README, encoding="utf-8") as f:
             text = f.read()
+        text = replace_block(text, "download", release.readme_block(sums))
         text = replace_block(text, "data", data_block())
         text = replace_block(text, "pools", pools_block(pools, res))
         with open(README, "w", encoding="utf-8", newline="\n") as f:

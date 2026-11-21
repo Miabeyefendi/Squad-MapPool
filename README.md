@@ -6,10 +6,58 @@ On most vanilla servers Narva, Mutaha and Fallujah are about a third of all roun
 
 ![30 rounds in a row](design/charts/sequence.svg)
 
+## Download
+
+<!-- BEGIN:download -->
+Every pool is a separate zip on the [release page](https://github.com/Miabeyefendi/Squad-MapPool/releases/latest). Not sure which one? Take **Recommended-Day-Evening.zip**. Each zip has the cfg files, the VoteConfig lines and a `HOW-TO-INSTALL.txt`.
+
+The zips only hold text files (cfg and txt). They are made by `python src/main.py`, which writes them to `releases/` with a fixed date and file order, so you can build them yourself and compare the SHA-256.
+
+<details><summary>SHA-256 of every zip</summary>
+
+| File | SHA-256 |
+|---|---|
+| `All-Maps-Best.zip` | `f24a00d7d4acb19762d52ec9642d37212d6d2fd2bf0fbae4a73997220126c7e2` |
+| `All-Pools.zip` | `fde9b05b5b0a357c1f9e16766bb7f5bd368517c1cb416bcc76e178f60021da06` |
+| `Big-Maps.zip` | `75fdcf6667cfe26a615cee4053703c1e04d41ea51ede6bffbb75cf041fec6d4b` |
+| `Biome-Balanced.zip` | `aff37ccdc7e84a1c6fead212f03b044defc3d85db6e7c10320402f5a3a4cb848` |
+| `Default-All-Layers.zip` | `0046ad9e3f81172cd269856b7bf0f6877f953d79c31aef61faf13a9064da5b1d` |
+| `Discovery.zip` | `6f889dd282c57adfd295898148ace3967d9d6d66a96923c25b9ba32773d26b1a` |
+| `Favorites-2-Weeks.zip` | `aab88d32358e4a94d41bfbccbaa519491f2ee7885271a0e43166ce66413b33c7` |
+| `Favorites-3-Weeks.zip` | `e9006cec5ab7bd3f6da2bd6c6d24272b8f5e763ab52d0fa9e5becd916bb4befb` |
+| `Favorites-4-Weeks.zip` | `32d57759a1df7d25bb95a4574abe693eecb71837704b8e15706b0e43ffc41784` |
+| `Favorites-5-Weeks.zip` | `b597ee1c6423fe39584d3b061c980b24c244319271a790fc40311bf6ca60f583` |
+| `Favorites-6-Weeks.zip` | `28bef820fadc8b9cda35f478d4a01ee0e4b6b7a7de96d92f492d49cb9f7b4a39` |
+| `Favorites-7-Weeks.zip` | `fd2b966185b4c9a18d1d2f3d7aaa58eaba6850690c8ccc4428436a188d063d74` |
+| `Low-Variety-2-Weeks.zip` | `37edf2f691af14ee8a3033611f7653a44c3d9abd8e938813eb029f104318ca23` |
+| `Low-Variety-3-Weeks.zip` | `a4635a190a88d268e0a71ebe375ea1041a61890153b5fb66d42e4e674817cfb8` |
+| `Low-Variety-4-Weeks.zip` | `c6cd10fdcb520877a0f9cea30569ef2a20ee26334e2fef8577cf11157e6dd791` |
+| `Low-Variety-5-Weeks.zip` | `55b7e9d059cf7f2229d8d099f605bf6e7bef135553c1b94429fad62642c72d15` |
+| `Low-Variety-6-Weeks.zip` | `9f321194ad8234afbdad324be03dbcd0db24dcf14485729c7511d15418c3729f` |
+| `Low-Variety-7-Weeks.zip` | `0d7ac6b3bf930f25349ab4fb57d8529c6145ce1451a9005a8f09ddcaa40eb38d` |
+| `Medium-Maps.zip` | `c68f15879b913a79d77229ef001ed77227b6893883c9903121b8783a03c8a43e` |
+| `Only-Invasion.zip` | `8c325a779d789e54c1168f1154417daee7bf18e6079daf0c9d82485236d9a1e9` |
+| `Only-RAAS.zip` | `16aa48d1b778d126b14697f5e72dedfca25c7cd504cc7618de4973801025aa2d` |
+| `Recommended-Day-Evening.zip` | `620a76aa3661ab012752529c5896155d8c9590937adaaaae33c6e5505e5910c9` |
+| `Rising-Maps.zip` | `5a493a3122eda5090d8cac83fb9c518cba02b8430c8f015d1d8dc11314d4db54` |
+| `Seed-Low-Players.zip` | `4d95062801221562455b023f0cf2b06e5668bced0ff1cc977818ebe9f6c22fa8` |
+| `Small-Maps.zip` | `538f1963f6e7e3e049cdcb974e60f7491bde5ff9e3402b06622b314ae241f34a` |
+| `Variety-2-Weeks.zip` | `db023748d95e7d22024f834a2278e765a4c08ce9029e2ad2f75ff7db714b9653` |
+| `Variety-3-Weeks.zip` | `60440380a61897095deebb85f20c053f230e81f270e9deefff967bb2c26ba36b` |
+| `Variety-4-Weeks.zip` | `f34ab865b9c4c051cbcd08674d72800859edbc70d7983dc01ec0ed47e53f9a4e` |
+| `Variety-5-Weeks.zip` | `7e458d1042d7e563bed29bbec760096de63ef460d7ec73cf8e885fc4795be314` |
+| `Variety-6-Weeks.zip` | `44ea2566008af50af1fa411087a3c66f1a483e8ae454169a15e407754a32f12d` |
+| `Variety-7-Weeks.zip` | `a70777515b67f9c48762abc33230e3ddfe3f28468e46141dfc5654bc4b656eb9` |
+| `Weekly-4-Weeks.zip` | `5962f34d37f15aec1ef7f84cef07f3bd7309ddc2dfc80cb93bb4531323d18296` |
+| `Weekly-5-Weeks.zip` | `28a06b84bb41089bb75e3af028d5665612ad4135d4d8207eca2d668081fa36cc` |
+
+</details>
+<!-- END:download -->
+
 ## How to use a pool
 
 1. `Server.cfg` needs `MapRotationMode=LayerList_Vote` and `UseVoteLayer=true`.
-2. Copy the `LayerVoting*.cfg` files of a pool from [`src/configs/pools/`](src/configs/pools) to `ServerConfig/`.
+2. Copy the `LayerVoting*.cfg` files of a pool (from its zip, or from [`src/configs/pools/`](src/configs/pools)) to `ServerConfig/`.
 3. Merge the keys from the pool's `VoteConfig.cfg` into `ServerConfig/VoteConfig.cfg`. Keys that are not listed stay as they are.
 4. Restart the server. Weekly pools: copy the next week's file at the weekly restart.
 
