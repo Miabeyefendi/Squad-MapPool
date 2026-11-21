@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="280" viewBox="0 0 430 280">
+<style>
+svg{--bg:#fcfcfb;--ink:#0b0b0b;--ink2:#52514e;--grid:#e4e3df;--base:#a3a29c;
+--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--cell:#e9e8e4;font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+@media (prefers-color-scheme:dark){svg{--bg:#1a1a19;--ink:#f0efec;--ink2:#c3c2b7;--grid:#383835;
+--base:#77766f;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--cell:#3a3a37}}
+.bg{fill:var(--bg)}.t{fill:var(--ink)}.t2{fill:var(--ink2)}.g{stroke:var(--grid)}
+.base{fill:var(--base)}.s1{fill:var(--s1)}.s2{fill:var(--s2)}.s3{fill:var(--s3)}.cell{fill:var(--cell)}
+.l1{stroke:var(--s1)}.l2{stroke:var(--s2)}.l3{stroke:var(--s3)}.lb{stroke:var(--base)}
+</style>
+<rect class="bg" width="430" height="280" rx="8"/>
+<text x="20.0" y="30.0" class="t" font-size="16" font-weight="600" text-anchor="start">Cycle length vs big 3 repeat</text>
+<rect x="20.0" y="43.0" width="10.0" height="10.0" rx="2" class="s1"></rect>
+<text x="35.0" y="52.0" class="t2" font-size="12" font-weight="400" text-anchor="start">Variety</text>
+<rect x="91.0" y="43.0" width="10.0" height="10.0" rx="2" class="s2"></rect>
+<text x="106.0" y="52.0" class="t2" font-size="12" font-weight="400" text-anchor="start">Favorites</text>
+<rect x="176.0" y="43.0" width="10.0" height="10.0" rx="2" class="s3"></rect>
+<text x="191.0" y="52.0" class="t2" font-size="12" font-weight="400" text-anchor="start">Low variety</text>
+<rect x="275.0" y="43.0" width="10.0" height="10.0" rx="2" class="base"></rect>
+<text x="290.0" y="52.0" class="t2" font-size="12" font-weight="400" text-anchor="start">Today</text>
+<line x1="50.0" y1="240.0" x2="410.0" y2="240.0" class="g" stroke-width="1"/>
+<text x="44.0" y="244.0" class="t2" font-size="11" font-weight="400" text-anchor="end">0</text>
+<line x1="50.0" y1="202.5" x2="410.0" y2="202.5" class="g" stroke-width="1"/>
+<text x="44.0" y="206.5" class="t2" font-size="11" font-weight="400" text-anchor="end">25</text>
+<line x1="50.0" y1="165.0" x2="410.0" y2="165.0" class="g" stroke-width="1"/>
+<text x="44.0" y="169.0" class="t2" font-size="11" font-weight="400" text-anchor="end">50</text>
+<line x1="50.0" y1="127.5" x2="410.0" y2="127.5" class="g" stroke-width="1"/>
+<text x="44.0" y="131.5" class="t2" font-size="11" font-weight="400" text-anchor="end">75</text>
+<line x1="50.0" y1="90.0" x2="410.0" y2="90.0" class="g" stroke-width="1"/>
+<text x="44.0" y="94.0" class="t2" font-size="11" font-weight="400" text-anchor="end">100</text>
+<text x="50.0" y="80.0" class="t2" font-size="11" font-weight="400" text-anchor="start">% again within 3 rounds</text>
+<text x="50.0" y="256.0" class="t2" font-size="11" font-weight="400" text-anchor="middle">2 wk</text>
+<text x="122.0" y="256.0" class="t2" font-size="11" font-weight="400" text-anchor="middle">3 wk</text>
+<text x="194.0" y="256.0" class="t2" font-size="11" font-weight="400" text-anchor="middle">4 wk</text>
+<text x="266.0" y="256.0" class="t2" font-size="11" font-weight="400" text-anchor="middle">5 wk</text>
+<text x="338.0" y="256.0" class="t2" font-size="11" font-weight="400" text-anchor="middle">6 wk</text>
+<text x="410.0" y="256.0" class="t2" font-size="11" font-weight="400" text-anchor="middle">7 wk</text>
+<path d="M50.0,194.6 L122.0,237.3 L194.0,238.1 L266.0,238.2 L338.0,237.6 L410.0,237.6" class="l1" fill="none" stroke-width="2"/>
+<circle cx="50.0" cy="194.6" r="4" class="s1" stroke="var(--bg)" stroke-width="2"><title>Variety, 2 wk: 30.2</title></circle>
+<circle cx="122.0" cy="237.3" r="4" class="s1" stroke="var(--bg)" stroke-width="2"><title>Variety, 3 wk: 1.8</title></circle>
+<circle cx="194.0" cy="238.1" r="4" class="s1" stroke="var(--bg)" stroke-width="2"><title>Variety, 4 wk: 1.2</title></circle>
+<circle cx="266.0" cy="238.2" r="4" class="s1" stroke="var(--bg)" stroke-width="2"><title>Variety, 5 wk: 1.2</title></circle>
+<circle cx="338.0" cy="237.6" r="4" class="s1" stroke="var(--bg)" stroke-width="2"><title>Variety, 6 wk: 1.6</title></circle>
+<circle cx="410.0" cy="237.6" r="4" class="s1" stroke="var(--bg)" stroke-width="2"><title>Variety, 7 wk: 1.6</title></circle>
+<path d="M50.0,135.3 L122.0,131.3 L194.0,131.5 L266.0,130.8 L338.0,130.7 L410.0,131.0" class="l2" fill="none" stroke-width="2"/>
+<circle cx="50.0" cy="135.3" r="4" class="s2" stroke="var(--bg)" stroke-width="2"><title>Favorites, 2 wk: 69.8</title></circle>
+<circle cx="122.0" cy="131.3" r="4" class="s2" stroke="var(--bg)" stroke-width="2"><title>Favorites, 3 wk: 72.5</title></circle>
+<circle cx="194.0" cy="131.5" r="4" class="s2" stroke="var(--bg)" stroke-width="2"><title>Favorites, 4 wk: 72.4</title></circle>
+<circle cx="266.0" cy="130.8" r="4" class="s2" stroke="var(--bg)" stroke-width="2"><title>Favorites, 5 wk: 72.8</title></circle>
+<circle cx="338.0" cy="130.7" r="4" class="s2" stroke="var(--bg)" stroke-width="2"><title>Favorites, 6 wk: 72.9</title></circle>
+<circle cx="410.0" cy="131.0" r="4" class="s2" stroke="var(--bg)" stroke-width="2"><title>Favorites, 7 wk: 72.6</title></circle>
+<path d="M50.0,104.8 L122.0,99.0 L194.0,96.6 L266.0,99.0 L338.0,98.6 L410.0,97.3" class="l3" fill="none" stroke-width="2"/>
+<circle cx="50.0" cy="104.8" r="4" class="s3" stroke="var(--bg)" stroke-width="2"><title>Low variety, 2 wk: 90.2</title></circle>
+<circle cx="122.0" cy="99.0" r="4" class="s3" stroke="var(--bg)" stroke-width="2"><title>Low variety, 3 wk: 94.0</title></circle>
+<circle cx="194.0" cy="96.6" r="4" class="s3" stroke="var(--bg)" stroke-width="2"><title>Low variety, 4 wk: 95.6</title></circle>
+<circle cx="266.0" cy="99.0" r="4" class="s3" stroke="var(--bg)" stroke-width="2"><title>Low variety, 5 wk: 94.0</title></circle>
+<circle cx="338.0" cy="98.6" r="4" class="s3" stroke="var(--bg)" stroke-width="2"><title>Low variety, 6 wk: 94.3</title></circle>
+<circle cx="410.0" cy="97.3" r="4" class="s3" stroke="var(--bg)" stroke-width="2"><title>Low variety, 7 wk: 95.2</title></circle>
+<path d="M50.0,138.3 L122.0,138.3 L194.0,138.3 L266.0,138.3 L338.0,138.3 L410.0,138.3" class="lb" fill="none" stroke-width="2" stroke-dasharray="5 4"/>
+</svg>

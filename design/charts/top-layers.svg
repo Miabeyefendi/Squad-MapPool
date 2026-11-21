@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="614" viewBox="0 0 860 614">
+<style>
+svg{--bg:#fcfcfb;--ink:#0b0b0b;--ink2:#52514e;--grid:#e4e3df;--base:#a3a29c;
+--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--cell:#e9e8e4;font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+@media (prefers-color-scheme:dark){svg{--bg:#1a1a19;--ink:#f0efec;--ink2:#c3c2b7;--grid:#383835;
+--base:#77766f;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--cell:#3a3a37}}
+.bg{fill:var(--bg)}.t{fill:var(--ink)}.t2{fill:var(--ink2)}.g{stroke:var(--grid)}
+.base{fill:var(--base)}.s1{fill:var(--s1)}.s2{fill:var(--s2)}.s3{fill:var(--s3)}.cell{fill:var(--cell)}
+.l1{stroke:var(--s1)}.l2{stroke:var(--s2)}.l3{stroke:var(--s3)}.lb{stroke:var(--base)}
+</style>
+<rect class="bg" width="860" height="614" rx="8"/>
+<text x="20.0" y="30.0" class="t" font-size="16" font-weight="600" text-anchor="start">Most played RAAS and Invasion layers</text>
+<text x="20.0" y="48.0" class="t2" font-size="12" font-weight="400" text-anchor="start">Matches, 2026-08-21 to 2026-11-20. Blue: RAAS, orange: Invasion.</text>
+<line x1="230.0" y1="52.0" x2="230.0" y2="584.0" class="g" stroke-width="1"/>
+<text x="230.0" y="600.0" class="t2" font-size="11" font-weight="400" text-anchor="middle">0</text>
+<line x1="367.5" y1="52.0" x2="367.5" y2="584.0" class="g" stroke-width="1"/>
+<text x="367.5" y="600.0" class="t2" font-size="11" font-weight="400" text-anchor="middle">500</text>
+<line x1="505.0" y1="52.0" x2="505.0" y2="584.0" class="g" stroke-width="1"/>
+<text x="505.0" y="600.0" class="t2" font-size="11" font-weight="400" text-anchor="middle">1000</text>
+<line x1="642.5" y1="52.0" x2="642.5" y2="584.0" class="g" stroke-width="1"/>
+<text x="642.5" y="600.0" class="t2" font-size="11" font-weight="400" text-anchor="middle">1500</text>
+<line x1="780.0" y1="52.0" x2="780.0" y2="584.0" class="g" stroke-width="1"/>
+<text x="780.0" y="600.0" class="t2" font-size="11" font-weight="400" text-anchor="middle">2000</text>
+<text x="222.0" y="71.0" class="t" font-size="12" font-weight="400" text-anchor="end">Narva RAAS v1</text>
+<rect x="230.0" y="60.0" width="419.4" height="14.0" rx="2" class="s1"><title>Narva RAAS v1: 1,525</title></rect>
+<text x="655.4" y="71.0" class="t2" font-size="11" font-weight="400" text-anchor="start">1,525</text>
+<text x="222.0" y="93.0" class="t" font-size="12" font-weight="400" text-anchor="end">Mutaha RAAS v1</text>
+<rect x="230.0" y="82.0" width="281.3" height="14.0" rx="2" class="s1"><title>Mutaha RAAS v1: 1,023</title></rect>
+<text x="517.3" y="93.0" class="t2" font-size="11" font-weight="400" text-anchor="start">1,023</text>
+<text x="222.0" y="115.0" class="t" font-size="12" font-weight="400" text-anchor="end">Gorodok RAAS v1</text>
+<rect x="230.0" y="104.0" width="257.7" height="14.0" rx="2" class="s1"><title>Gorodok RAAS v1: 937</title></rect>
+<text x="493.7" y="115.0" class="t2" font-size="11" font-weight="400" text-anchor="start">937</text>
+<text x="222.0" y="137.0" class="t" font-size="12" font-weight="400" text-anchor="end">Gorodok RAAS v2</text>
+<rect x="230.0" y="126.0" width="230.4" height="14.0" rx="2" class="s1"><title>Gorodok RAAS v2: 838</title></rect>
+<text x="466.4" y="137.0" class="t2" font-size="11" font-weight="400" text-anchor="start">838</text>
+<text x="222.0" y="159.0" class="t" font-size="12" font-weight="400" text-anchor="end">Fallujah RAAS v1</text>
+<rect x="230.0" y="148.0" width="228.0" height="14.0" rx="2" class="s1"><title>Fallujah RAAS v1: 829</title></rect>
+<text x="464.0" y="159.0" class="t2" font-size="11" font-weight="400" text-anchor="start">829</text>
+<text x="222.0" y="181.0" class="t" font-size="12" font-weight="400" text-anchor="end">Mutaha RAAS v2</text>
+<rect x="230.0" y="170.0" width="226.1" height="14.0" rx="2" class="s1"><title>Mutaha RAAS v2: 822</title></rect>
+<text x="462.1" y="181.0" class="t2" font-size="11" font-weight="400" text-anchor="start">822</text>
+<text x="222.0" y="203.0" class="t" font-size="12" font-weight="400" text-anchor="end">Yehorivka RAAS v2</text>
+<rect x="230.0" y="192.0" width="224.9" height="14.0" rx="2" class="s1"><title>Yehorivka RAAS v2: 818</title></rect>
+<text x="460.9" y="203.0" class="t2" font-size="11" font-weight="400" text-anchor="start">818</text>
+<text x="222.0" y="225.0" class="t" font-size="12" font-weight="400" text-anchor="end">Yehorivka RAAS v1</text>
+<rect x="230.0" y="214.0" width="214.8" height="14.0" rx="2" class="s1"><title>Yehorivka RAAS v1: 781</title></rect>
+<text x="450.8" y="225.0" class="t2" font-size="11" font-weight="400" text-anchor="start">781</text>
+<text x="222.0" y="247.0" class="t" font-size="12" font-weight="400" text-anchor="end">Fallujah RAAS v2</text>
+<rect x="230.0" y="236.0" width="198.6" height="14.0" rx="2" class="s1"><title>Fallujah RAAS v2: 722</title></rect>
+<text x="434.6" y="247.0" class="t2" font-size="11" font-weight="400" text-anchor="start">722</text>
+<text x="222.0" y="269.0" class="t" font-size="12" font-weight="400" text-anchor="end">BlackCoast RAAS v1</text>
+<rect x="230.0" y="258.0" width="173.5" height="14.0" rx="2" class="s1"><title>BlackCoast RAAS v1: 631</title></rect>
+<text x="409.5" y="269.0" class="t2" font-size="11" font-weight="400" text-anchor="start">631</text>
+<text x="222.0" y="291.0" class="t" font-size="12" font-weight="400" text-anchor="end">BlackCoast RAAS v2</text>
+<rect x="230.0" y="280.0" width="165.6" height="14.0" rx="2" class="s1"><title>BlackCoast RAAS v2: 602</title></rect>
+<text x="401.6" y="291.0" class="t2" font-size="11" font-weight="400" text-anchor="start">602</text>
+<text x="222.0" y="313.0" class="t" font-size="12" font-weight="400" text-anchor="end">Manicouagan RAAS v1</text>
+<rect x="230.0" y="302.0" width="164.2" height="14.0" rx="2" class="s1"><title>Manicouagan RAAS v1: 597</title></rect>
+<text x="400.2" y="313.0" class="t2" font-size="11" font-weight="400" text-anchor="start">597</text>
+<text x="222.0" y="335.0" class="t" font-size="12" font-weight="400" text-anchor="end">Manicouagan RAAS v2</text>
+<rect x="230.0" y="324.0" width="161.7" height="14.0" rx="2" class="s1"><title>Manicouagan RAAS v2: 588</title></rect>
+<text x="397.7" y="335.0" class="t2" font-size="11" font-weight="400" text-anchor="start">588</text>
+<text x="222.0" y="357.0" class="t" font-size="12" font-weight="400" text-anchor="end">GooseBay RAAS v1</text>
+<rect x="230.0" y="346.0" width="153.2" height="14.0" rx="2" class="s1"><title>GooseBay RAAS v1: 557</title></rect>
+<text x="389.2" y="357.0" class="t2" font-size="11" font-weight="400" text-anchor="start">557</text>
+<text x="222.0" y="379.0" class="t" font-size="12" font-weight="400" text-anchor="end">AlBasrah RAAS v1</text>
+<rect x="230.0" y="368.0" width="151.5" height="14.0" rx="2" class="s1"><title>AlBasrah RAAS v1: 551</title></rect>
+<text x="387.5" y="379.0" class="t2" font-size="11" font-weight="400" text-anchor="start">551</text>
+<text x="222.0" y="401.0" class="t" font-size="12" font-weight="400" text-anchor="end">GooseBay RAAS v2</text>
+<rect x="230.0" y="390.0" width="127.6" height="14.0" rx="2" class="s1"><title>GooseBay RAAS v2: 464</title></rect>
+<text x="363.6" y="401.0" class="t2" font-size="11" font-weight="400" text-anchor="start">464</text>
+<text x="222.0" y="423.0" class="t" font-size="12" font-weight="400" text-anchor="end">Skorpo RAAS v1</text>
+<rect x="230.0" y="412.0" width="124.8" height="14.0" rx="2" class="s1"><title>Skorpo RAAS v1: 454</title></rect>
+<text x="360.9" y="423.0" class="t2" font-size="11" font-weight="400" text-anchor="start">454</text>
+<text x="222.0" y="445.0" class="t" font-size="12" font-weight="400" text-anchor="end">AlBasrah RAAS v2</text>
+<rect x="230.0" y="434.0" width="119.9" height="14.0" rx="2" class="s1"><title>AlBasrah RAAS v2: 436</title></rect>
+<text x="355.9" y="445.0" class="t2" font-size="11" font-weight="400" text-anchor="start">436</text>
+<text x="222.0" y="467.0" class="t" font-size="12" font-weight="400" text-anchor="end">Harju RAAS v1</text>
+<rect x="230.0" y="456.0" width="113.6" height="14.0" rx="2" class="s1"><title>Harju RAAS v1: 413</title></rect>
+<text x="349.6" y="467.0" class="t2" font-size="11" font-weight="400" text-anchor="start">413</text>
+<text x="222.0" y="489.0" class="t" font-size="12" font-weight="400" text-anchor="end">Tallil Invasion v1</text>
+<rect x="230.0" y="478.0" width="97.1" height="14.0" rx="2" class="s2"><title>Tallil Invasion v1: 353</title></rect>
+<text x="333.1" y="489.0" class="t2" font-size="11" font-weight="400" text-anchor="start">353</text>
+<text x="222.0" y="511.0" class="t" font-size="12" font-weight="400" text-anchor="end">Narva Invasion v2</text>
+<rect x="230.0" y="500.0" width="78.7" height="14.0" rx="2" class="s2"><title>Narva Invasion v2: 286</title></rect>
+<text x="314.6" y="511.0" class="t2" font-size="11" font-weight="400" text-anchor="start">286</text>
+<text x="222.0" y="533.0" class="t" font-size="12" font-weight="400" text-anchor="end">Mutaha Invasion v1</text>
+<rect x="230.0" y="522.0" width="77.8" height="14.0" rx="2" class="s2"><title>Mutaha Invasion v1: 283</title></rect>
+<text x="313.8" y="533.0" class="t2" font-size="11" font-weight="400" text-anchor="start">283</text>
+<text x="222.0" y="555.0" class="t" font-size="12" font-weight="400" text-anchor="end">Tallil RAAS v1</text>
+<rect x="230.0" y="544.0" width="68.5" height="14.0" rx="2" class="s1"><title>Tallil RAAS v1: 249</title></rect>
+<text x="304.5" y="555.0" class="t2" font-size="11" font-weight="400" text-anchor="start">249</text>
+<text x="222.0" y="577.0" class="t" font-size="12" font-weight="400" text-anchor="end">Narva Invasion v1</text>
+<rect x="230.0" y="566.0" width="67.1" height="14.0" rx="2" class="s2"><title>Narva Invasion v1: 244</title></rect>
+<text x="303.1" y="577.0" class="t2" font-size="11" font-weight="400" text-anchor="start">244</text>
+</svg>

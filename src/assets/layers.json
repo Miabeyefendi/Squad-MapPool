@@ -1,0 +1,732 @@
+{
+"source": "https://github.com/fantinodavide/SquadLayerList (layers.json, Maps[].rawName, biome, mapSize)",
+"fetched": "2026-11-21",
+"layers": {
+"AlBasrah_AAS_v1": {
+"map": "AlBasrah",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 4.0
+},
+"AlBasrah_AAS_v2": {
+"map": "AlBasrah",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 4.0
+},
+"AlBasrah_Invasion_v1": {
+"map": "AlBasrah",
+"mode": "Invasion",
+"biome": "DESERT",
+"km": 4.0
+},
+"AlBasrah_Invasion_v2": {
+"map": "AlBasrah",
+"mode": "Invasion",
+"biome": "DESERT",
+"km": 4.0
+},
+"AlBasrah_Invasion_v3": {
+"map": "AlBasrah",
+"mode": "Invasion",
+"biome": "DESERT",
+"km": 4.0
+},
+"AlBasrah_RAAS_v1": {
+"map": "AlBasrah",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 4.0
+},
+"AlBasrah_RAAS_v2": {
+"map": "AlBasrah",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 4.0
+},
+"AlBasrah_RAAS_v3": {
+"map": "AlBasrah",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 4.0
+},
+"Anvil_AAS_v1": {
+"map": "Anvil",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 3.1
+},
+"Anvil_Invasion_v1": {
+"map": "Anvil",
+"mode": "Invasion",
+"biome": "DESERT",
+"km": 3.1
+},
+"Anvil_RAAS_v1": {
+"map": "Anvil",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 3.1
+},
+"Anvil_RAAS_v2": {
+"map": "Anvil",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 3.1
+},
+"BlackCoast_AAS_v1": {
+"map": "BlackCoast",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 4.6
+},
+"BlackCoast_AAS_v2": {
+"map": "BlackCoast",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 4.6
+},
+"BlackCoast_Invasion_v1": {
+"map": "BlackCoast",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 4.6
+},
+"BlackCoast_Invasion_v2": {
+"map": "BlackCoast",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 4.6
+},
+"BlackCoast_Invasion_v3": {
+"map": "BlackCoast",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 4.6
+},
+"BlackCoast_RAAS_v1": {
+"map": "BlackCoast",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 4.6
+},
+"BlackCoast_RAAS_v2": {
+"map": "BlackCoast",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 4.6
+},
+"Chora_AAS_v1": {
+"map": "Chora",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 4.1
+},
+"Chora_AAS_v2": {
+"map": "Chora",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 4.1
+},
+"Chora_AAS_v3": {
+"map": "Chora",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 4.1
+},
+"Chora_Invasion_v1": {
+"map": "Chora",
+"mode": "Invasion",
+"biome": "DESERT",
+"km": 4.1
+},
+"Chora_Invasion_v2": {
+"map": "Chora",
+"mode": "Invasion",
+"biome": "DESERT",
+"km": 4.1
+},
+"Chora_RAAS_v1": {
+"map": "Chora",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 4.1
+},
+"Fallujah_AAS_v1": {
+"map": "Fallujah",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 3.0
+},
+"Fallujah_Invasion_v1": {
+"map": "Fallujah",
+"mode": "Invasion",
+"biome": "DESERT",
+"km": 3.0
+},
+"Fallujah_Invasion_v2": {
+"map": "Fallujah",
+"mode": "Invasion",
+"biome": "DESERT",
+"km": 3.0
+},
+"Fallujah_RAAS_v1": {
+"map": "Fallujah",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 3.0
+},
+"Fallujah_RAAS_v2": {
+"map": "Fallujah",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 3.0
+},
+"FoolsRoad_AAS_v1": {
+"map": "FoolsRoad",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 1.8
+},
+"FoolsRoad_AAS_v2": {
+"map": "FoolsRoad",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 1.8
+},
+"FoolsRoad_Invasion_v1": {
+"map": "FoolsRoad",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 1.8
+},
+"FoolsRoad_RAAS_v1": {
+"map": "FoolsRoad",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 1.8
+},
+"GooseBay_AAS_v1": {
+"map": "GooseBay",
+"mode": "AAS",
+"biome": "SNOW",
+"km": 4.0
+},
+"GooseBay_Invasion_v1": {
+"map": "GooseBay",
+"mode": "Invasion",
+"biome": "SNOW",
+"km": 4.0
+},
+"GooseBay_Invasion_v2": {
+"map": "GooseBay",
+"mode": "Invasion",
+"biome": "SNOW",
+"km": 4.0
+},
+"GooseBay_RAAS_v1": {
+"map": "GooseBay",
+"mode": "RAAS",
+"biome": "SNOW",
+"km": 4.0
+},
+"GooseBay_RAAS_v2": {
+"map": "GooseBay",
+"mode": "RAAS",
+"biome": "SNOW",
+"km": 4.0
+},
+"Gorodok_AAS_v1": {
+"map": "Gorodok",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 4.1
+},
+"Gorodok_Invasion_v1": {
+"map": "Gorodok",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 4.1
+},
+"Gorodok_Invasion_v2": {
+"map": "Gorodok",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 4.1
+},
+"Gorodok_Invasion_v3": {
+"map": "Gorodok",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 4.1
+},
+"Gorodok_RAAS_v1": {
+"map": "Gorodok",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 4.1
+},
+"Gorodok_RAAS_v2": {
+"map": "Gorodok",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 4.1
+},
+"Harju_AAS_v1": {
+"map": "Harju",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 4.0
+},
+"Harju_AAS_v2": {
+"map": "Harju",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 4.0
+},
+"Harju_AAS_v3": {
+"map": "Harju",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 4.0
+},
+"Harju_Invasion_v1": {
+"map": "Harju",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 4.0
+},
+"Harju_Invasion_v2": {
+"map": "Harju",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 4.0
+},
+"Harju_Invasion_v3": {
+"map": "Harju",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 4.0
+},
+"Harju_RAAS_v1": {
+"map": "Harju",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 4.0
+},
+"Harju_RAAS_v2": {
+"map": "Harju",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 4.0
+},
+"Kamdesh_AAS_v1": {
+"map": "Kamdesh",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 4.0
+},
+"Kamdesh_Invasion_v1": {
+"map": "Kamdesh",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 4.0
+},
+"Kamdesh_RAAS_v1": {
+"map": "Kamdesh",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 4.0
+},
+"Kohat_AAS_v1": {
+"map": "Kohat",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 4.6
+},
+"Kohat_RAAS_v1": {
+"map": "Kohat",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 4.6
+},
+"Kohat_RAAS_v2": {
+"map": "Kohat",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 4.6
+},
+"Kohat_Invasion_v1": {
+"map": "Kohat",
+"mode": "Invasion",
+"biome": "DESERT",
+"km": 4.6
+},
+"Kohat_Invasion_v2": {
+"map": "Kohat",
+"mode": "Invasion",
+"biome": "DESERT",
+"km": 4.6
+},
+"Kokan_AAS_v1": {
+"map": "Kokan",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 2.5
+},
+"Kokan_AAS_v2": {
+"map": "Kokan",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 2.5
+},
+"Kokan_Invasion_v1": {
+"map": "Kokan",
+"mode": "Invasion",
+"biome": "DESERT",
+"km": 2.5
+},
+"Kokan_RAAS_v1": {
+"map": "Kokan",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 2.5
+},
+"Lashkar_AAS_v1": {
+"map": "Lashkar",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 4.3
+},
+"Lashkar_AAS_v2": {
+"map": "Lashkar",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 4.3
+},
+"Lashkar_Invasion_v1": {
+"map": "Lashkar",
+"mode": "Invasion",
+"biome": "DESERT",
+"km": 4.3
+},
+"Lashkar_RAAS_v1": {
+"map": "Lashkar",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 4.3
+},
+"Logar_AAS_v1": {
+"map": "Logar",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 1.8
+},
+"Logar_RAAS_v1": {
+"map": "Logar",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 1.8
+},
+"Manicouagan_AAS_v1": {
+"map": "Manicouagan",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 4.0
+},
+"Manicouagan_AAS_v2": {
+"map": "Manicouagan",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 4.0
+},
+"Manicouagan_AAS_v3": {
+"map": "Manicouagan",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 4.0
+},
+"Manicouagan_RAAS_v1": {
+"map": "Manicouagan",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 4.0
+},
+"Manicouagan_RAAS_v2": {
+"map": "Manicouagan",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 4.0
+},
+"Manicouagan_Invasion_v1": {
+"map": "Manicouagan",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 4.0
+},
+"Manicouagan_Invasion_v2": {
+"map": "Manicouagan",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 4.0
+},
+"Mestia_AAS_v1": {
+"map": "Mestia",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 2.4
+},
+"Mestia_AAS_v2": {
+"map": "Mestia",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 2.4
+},
+"Mestia_Invasion_v1": {
+"map": "Mestia",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 2.4
+},
+"Mestia_RAAS_v1": {
+"map": "Mestia",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 2.4
+},
+"Mutaha_AAS_v1": {
+"map": "Mutaha",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 2.8
+},
+"Mutaha_AAS_v2": {
+"map": "Mutaha",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 2.8
+},
+"Mutaha_Invasion_v1": {
+"map": "Mutaha",
+"mode": "Invasion",
+"biome": "DESERT",
+"km": 2.8
+},
+"Mutaha_RAAS_v1": {
+"map": "Mutaha",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 2.8
+},
+"Mutaha_RAAS_v2": {
+"map": "Mutaha",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 2.8
+},
+"Narva_AAS_v1": {
+"map": "Narva",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 2.8
+},
+"Narva_AAS_v2": {
+"map": "Narva",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 2.8
+},
+"Narva_AAS_v3": {
+"map": "Narva",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 2.8
+},
+"Narva_Invasion_v1": {
+"map": "Narva",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 2.8
+},
+"Narva_Invasion_v2": {
+"map": "Narva",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 2.8
+},
+"Narva_RAAS_v1": {
+"map": "Narva",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 2.8
+},
+"PacificProvingGrounds_AAS_v1": {
+"map": "PacificProvingGrounds",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 4.0
+},
+"Sanxian_AAS_v1": {
+"map": "Sanxian",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 4.6
+},
+"Sanxian_AAS_v2": {
+"map": "Sanxian",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 4.6
+},
+"Sanxian_AAS_v3": {
+"map": "Sanxian",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 4.6
+},
+"Sanxian_Invasion_v1": {
+"map": "Sanxian",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 4.6
+},
+"Sanxian_Invasion_v2": {
+"map": "Sanxian",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 4.6
+},
+"Sanxian_Invasion_v3": {
+"map": "Sanxian",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 4.6
+},
+"Sanxian_RAAS_v1": {
+"map": "Sanxian",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 4.6
+},
+"Sanxian_RAAS_v2": {
+"map": "Sanxian",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 4.6
+},
+"Skorpo_Invasion_v1": {
+"map": "Skorpo",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 7.6
+},
+"Skorpo_Invasion_v2": {
+"map": "Skorpo",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 6.9
+},
+"Skorpo_Invasion_v3": {
+"map": "Skorpo",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 6.9
+},
+"Skorpo_RAAS_v1": {
+"map": "Skorpo",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 6.9
+},
+"Sumari_AAS_v1": {
+"map": "Sumari",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 1.3
+},
+"Sumari_AAS_v2": {
+"map": "Sumari",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 1.3
+},
+"Sumari_AAS_v3": {
+"map": "Sumari",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 1.3
+},
+"Sumari_Invasion_v1": {
+"map": "Sumari",
+"mode": "Invasion",
+"biome": "DESERT",
+"km": 1.3
+},
+"Sumari_RAAS_v1": {
+"map": "Sumari",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 1.3
+},
+"Tallil_AAS_v1": {
+"map": "Tallil",
+"mode": "AAS",
+"biome": "DESERT",
+"km": 4.7
+},
+"Tallil_Invasion_v1": {
+"map": "Tallil",
+"mode": "Invasion",
+"biome": "DESERT",
+"km": 4.7
+},
+"Tallil_RAAS_v1": {
+"map": "Tallil",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 4.7
+},
+"Tallil_RAAS_v2": {
+"map": "Tallil",
+"mode": "RAAS",
+"biome": "DESERT",
+"km": 4.7
+},
+"Yehorivka_AAS_v1": {
+"map": "Yehorivka",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 6.3
+},
+"Yehorivka_AAS_v2": {
+"map": "Yehorivka",
+"mode": "AAS",
+"biome": "FOREST",
+"km": 6.3
+},
+"Yehorivka_Invasion_v1": {
+"map": "Yehorivka",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 6.3
+},
+"Yehorivka_Invasion_v2": {
+"map": "Yehorivka",
+"mode": "Invasion",
+"biome": "FOREST",
+"km": 6.3
+},
+"Yehorivka_RAAS_v1": {
+"map": "Yehorivka",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 6.3
+},
+"Yehorivka_RAAS_v2": {
+"map": "Yehorivka",
+"mode": "RAAS",
+"biome": "FOREST",
+"km": 6.3
+}
+}
+}

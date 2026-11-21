@@ -1,0 +1,324 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="235" viewBox="0 0 900 235">
+<style>
+svg{--bg:#fcfcfb;--ink:#0b0b0b;--ink2:#52514e;--grid:#e4e3df;--base:#a3a29c;
+--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--cell:#e9e8e4;font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+@media (prefers-color-scheme:dark){svg{--bg:#1a1a19;--ink:#f0efec;--ink2:#c3c2b7;--grid:#383835;
+--base:#77766f;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--cell:#3a3a37}}
+.bg{fill:var(--bg)}.t{fill:var(--ink)}.t2{fill:var(--ink2)}.g{stroke:var(--grid)}
+.base{fill:var(--base)}.s1{fill:var(--s1)}.s2{fill:var(--s2)}.s3{fill:var(--s3)}.cell{fill:var(--cell)}
+.l1{stroke:var(--s1)}.l2{stroke:var(--s2)}.l3{stroke:var(--s3)}.lb{stroke:var(--base)}
+</style>
+<rect class="bg" width="900" height="235" rx="8"/>
+<text x="20.0" y="30.0" class="t" font-size="16" font-weight="600" text-anchor="start">30 rounds in a row (one random stretch of the model)</text>
+<rect x="20.0" y="43.0" width="10.0" height="10.0" rx="2" class="s2"></rect>
+<text x="35.0" y="52.0" class="t2" font-size="12" font-weight="400" text-anchor="start">Narva / Mutaha / Fallujah</text>
+<rect x="217.0" y="43.0" width="10.0" height="10.0" rx="2" class="s1"></rect>
+<text x="232.0" y="52.0" class="t2" font-size="12" font-weight="400" text-anchor="start">Gorodok / Yehorivka</text>
+<rect x="372.0" y="43.0" width="10.0" height="10.0" rx="2" class="cell"></rect>
+<text x="387.0" y="52.0" class="t2" font-size="12" font-weight="400" text-anchor="start">Other maps</text>
+<text x="182.0" y="85.0" class="t" font-size="12" font-weight="400" text-anchor="end">Today</text>
+<rect x="190.0" y="70.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 1: Sanxian</title></rect>
+<text x="200.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Sx</text>
+<rect x="213.0" y="70.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 2: GooseBay</title></rect>
+<text x="223.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="236.0" y="70.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 3: Fallujah</title></rect>
+<text x="246.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Fa</text>
+<rect x="259.0" y="70.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 4: Yehorivka</title></rect>
+<text x="269.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ye</text>
+<rect x="282.0" y="70.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 5: Mutaha</title></rect>
+<text x="292.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mu</text>
+<rect x="305.0" y="70.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 6: Yehorivka</title></rect>
+<text x="315.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ye</text>
+<rect x="328.0" y="70.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 7: Kohat</title></rect>
+<text x="338.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Kh</text>
+<rect x="351.0" y="70.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 8: AlBasrah</title></rect>
+<text x="361.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<rect x="374.0" y="70.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 9: Tallil</title></rect>
+<text x="384.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ta</text>
+<rect x="397.0" y="70.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 10: Gorodok</title></rect>
+<text x="407.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Go</text>
+<rect x="420.0" y="70.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 11: Mutaha</title></rect>
+<text x="430.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mu</text>
+<rect x="443.0" y="70.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 12: GooseBay</title></rect>
+<text x="453.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="466.0" y="70.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 13: Fallujah</title></rect>
+<text x="476.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Fa</text>
+<rect x="489.0" y="70.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 14: Yehorivka</title></rect>
+<text x="499.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ye</text>
+<rect x="512.0" y="70.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 15: Mutaha</title></rect>
+<text x="522.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mu</text>
+<rect x="535.0" y="70.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 16: Tallil</title></rect>
+<text x="545.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ta</text>
+<rect x="558.0" y="70.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 17: AlBasrah</title></rect>
+<text x="568.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<rect x="581.0" y="70.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 18: Tallil</title></rect>
+<text x="591.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ta</text>
+<rect x="604.0" y="70.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 19: Gorodok</title></rect>
+<text x="614.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Go</text>
+<rect x="627.0" y="70.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 20: Yehorivka</title></rect>
+<text x="637.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ye</text>
+<rect x="650.0" y="70.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 21: Narva</title></rect>
+<text x="660.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Na</text>
+<rect x="673.0" y="70.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 22: AlBasrah</title></rect>
+<text x="683.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<rect x="696.0" y="70.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 23: Gorodok</title></rect>
+<text x="706.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Go</text>
+<rect x="719.0" y="70.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 24: Narva</title></rect>
+<text x="729.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Na</text>
+<rect x="742.0" y="70.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 25: Yehorivka</title></rect>
+<text x="752.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ye</text>
+<rect x="765.0" y="70.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 26: GooseBay</title></rect>
+<text x="775.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="788.0" y="70.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 27: Fallujah</title></rect>
+<text x="798.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Fa</text>
+<rect x="811.0" y="70.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 28: AlBasrah</title></rect>
+<text x="821.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<rect x="834.0" y="70.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 29: Fallujah</title></rect>
+<text x="844.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Fa</text>
+<rect x="857.0" y="70.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 30: BlackCoast</title></rect>
+<text x="867.5" y="84.5" class="t" font-size="9" font-weight="600" text-anchor="middle">BC</text>
+<text x="182.0" y="116.0" class="t" font-size="12" font-weight="400" text-anchor="end">Weekly plan, 4 weeks</text>
+<rect x="190.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 1: AlBasrah</title></rect>
+<text x="200.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<rect x="213.0" y="101.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 2: Yehorivka</title></rect>
+<text x="223.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ye</text>
+<rect x="236.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 3: Manicouagan</title></rect>
+<text x="246.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mn</text>
+<rect x="259.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 4: Anvil</title></rect>
+<text x="269.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">An</text>
+<rect x="282.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 5: Kohat</title></rect>
+<text x="292.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Kh</text>
+<rect x="305.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 6: Harju</title></rect>
+<text x="315.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ha</text>
+<rect x="328.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 7: BlackCoast</title></rect>
+<text x="338.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">BC</text>
+<rect x="351.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 8: Skorpo</title></rect>
+<text x="361.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Sk</text>
+<rect x="374.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 9: GooseBay</title></rect>
+<text x="384.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="397.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 10: Chora</title></rect>
+<text x="407.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ch</text>
+<rect x="420.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 11: Tallil</title></rect>
+<text x="430.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ta</text>
+<rect x="443.0" y="101.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 12: Gorodok</title></rect>
+<text x="453.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Go</text>
+<rect x="466.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 13: Anvil</title></rect>
+<text x="476.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">An</text>
+<rect x="489.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 14: AlBasrah</title></rect>
+<text x="499.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<rect x="512.0" y="101.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 15: Yehorivka</title></rect>
+<text x="522.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ye</text>
+<rect x="535.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 16: Manicouagan</title></rect>
+<text x="545.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mn</text>
+<rect x="558.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 17: Mestia</title></rect>
+<text x="568.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Me</text>
+<rect x="581.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 18: Harju</title></rect>
+<text x="591.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ha</text>
+<rect x="604.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 19: BlackCoast</title></rect>
+<text x="614.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">BC</text>
+<rect x="627.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 20: Tallil</title></rect>
+<text x="637.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ta</text>
+<rect x="650.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 21: Skorpo</title></rect>
+<text x="660.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Sk</text>
+<rect x="673.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 22: Kokan</title></rect>
+<text x="683.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Kk</text>
+<rect x="696.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 23: GooseBay</title></rect>
+<text x="706.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="719.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 24: AlBasrah</title></rect>
+<text x="729.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<rect x="742.0" y="101.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 25: Yehorivka</title></rect>
+<text x="752.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ye</text>
+<rect x="765.0" y="101.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 26: Gorodok</title></rect>
+<text x="775.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Go</text>
+<rect x="788.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 27: Harju</title></rect>
+<text x="798.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ha</text>
+<rect x="811.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 28: BlackCoast</title></rect>
+<text x="821.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">BC</text>
+<rect x="834.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 29: Manicouagan</title></rect>
+<text x="844.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mn</text>
+<rect x="857.0" y="101.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 30: Tallil</title></rect>
+<text x="867.5" y="115.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ta</text>
+<text x="182.0" y="147.0" class="t" font-size="12" font-weight="400" text-anchor="end">Day / evening pool</text>
+<rect x="190.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 1: AlBasrah</title></rect>
+<text x="200.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<rect x="213.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 2: BlackCoast</title></rect>
+<text x="223.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">BC</text>
+<rect x="236.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 3: Tallil</title></rect>
+<text x="246.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ta</text>
+<rect x="259.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 4: GooseBay</title></rect>
+<text x="269.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="282.0" y="132.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 5: Narva</title></rect>
+<text x="292.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Na</text>
+<rect x="305.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 6: AlBasrah</title></rect>
+<text x="315.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<rect x="328.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 7: Manicouagan</title></rect>
+<text x="338.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mn</text>
+<rect x="351.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 8: Tallil</title></rect>
+<text x="361.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ta</text>
+<rect x="374.0" y="132.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 9: Yehorivka</title></rect>
+<text x="384.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ye</text>
+<rect x="397.0" y="132.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 10: Mutaha</title></rect>
+<text x="407.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mu</text>
+<rect x="420.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 11: BlackCoast</title></rect>
+<text x="430.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">BC</text>
+<rect x="443.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 12: GooseBay</title></rect>
+<text x="453.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="466.0" y="132.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 13: Narva</title></rect>
+<text x="476.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Na</text>
+<rect x="489.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 14: AlBasrah</title></rect>
+<text x="499.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<rect x="512.0" y="132.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 15: Gorodok</title></rect>
+<text x="522.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Go</text>
+<rect x="535.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 16: GooseBay</title></rect>
+<text x="545.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="558.0" y="132.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 17: Narva</title></rect>
+<text x="568.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Na</text>
+<rect x="581.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 18: Kokan</title></rect>
+<text x="591.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Kk</text>
+<rect x="604.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 19: Mestia</title></rect>
+<text x="614.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Me</text>
+<rect x="627.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 20: AlBasrah</title></rect>
+<text x="637.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<rect x="650.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 21: BlackCoast</title></rect>
+<text x="660.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">BC</text>
+<rect x="673.0" y="132.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 22: Fallujah</title></rect>
+<text x="683.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Fa</text>
+<rect x="696.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 23: Manicouagan</title></rect>
+<text x="706.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mn</text>
+<rect x="719.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 24: Tallil</title></rect>
+<text x="729.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ta</text>
+<rect x="742.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 25: Harju</title></rect>
+<text x="752.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ha</text>
+<rect x="765.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 26: AlBasrah</title></rect>
+<text x="775.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<rect x="788.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 27: Manicouagan</title></rect>
+<text x="798.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mn</text>
+<rect x="811.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 28: GooseBay</title></rect>
+<text x="821.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="834.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 29: BlackCoast</title></rect>
+<text x="844.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">BC</text>
+<rect x="857.0" y="132.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 30: AlBasrah</title></rect>
+<text x="867.5" y="146.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<text x="182.0" y="178.0" class="t" font-size="12" font-weight="400" text-anchor="end">All maps, best version</text>
+<rect x="190.0" y="163.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 1: Mutaha</title></rect>
+<text x="200.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mu</text>
+<rect x="213.0" y="163.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 2: Yehorivka</title></rect>
+<text x="223.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ye</text>
+<rect x="236.0" y="163.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 3: Chora</title></rect>
+<text x="246.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ch</text>
+<rect x="259.0" y="163.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 4: GooseBay</title></rect>
+<text x="269.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="282.0" y="163.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 5: Gorodok</title></rect>
+<text x="292.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Go</text>
+<rect x="305.0" y="163.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 6: Lashkar</title></rect>
+<text x="315.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">La</text>
+<rect x="328.0" y="163.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 7: Skorpo</title></rect>
+<text x="338.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Sk</text>
+<rect x="351.0" y="163.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 8: GooseBay</title></rect>
+<text x="361.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="374.0" y="163.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 9: Tallil</title></rect>
+<text x="384.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ta</text>
+<rect x="397.0" y="163.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 10: Narva</title></rect>
+<text x="407.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Na</text>
+<rect x="420.0" y="163.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 11: Fallujah</title></rect>
+<text x="430.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Fa</text>
+<rect x="443.0" y="163.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 12: Manicouagan</title></rect>
+<text x="453.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mn</text>
+<rect x="466.0" y="163.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 13: Anvil</title></rect>
+<text x="476.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">An</text>
+<rect x="489.0" y="163.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 14: Narva</title></rect>
+<text x="499.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Na</text>
+<rect x="512.0" y="163.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 15: Mutaha</title></rect>
+<text x="522.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mu</text>
+<rect x="535.0" y="163.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 16: Yehorivka</title></rect>
+<text x="545.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ye</text>
+<rect x="558.0" y="163.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 17: Anvil</title></rect>
+<text x="568.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">An</text>
+<rect x="581.0" y="163.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 18: Gorodok</title></rect>
+<text x="591.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Go</text>
+<rect x="604.0" y="163.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 19: Mutaha</title></rect>
+<text x="614.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mu</text>
+<rect x="627.0" y="163.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 20: Manicouagan</title></rect>
+<text x="637.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mn</text>
+<rect x="650.0" y="163.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 21: Fallujah</title></rect>
+<text x="660.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Fa</text>
+<rect x="673.0" y="163.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 22: Gorodok</title></rect>
+<text x="683.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Go</text>
+<rect x="696.0" y="163.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 23: Mutaha</title></rect>
+<text x="706.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mu</text>
+<rect x="719.0" y="163.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 24: GooseBay</title></rect>
+<text x="729.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="742.0" y="163.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 25: Narva</title></rect>
+<text x="752.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Na</text>
+<rect x="765.0" y="163.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 26: Kokan</title></rect>
+<text x="775.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Kk</text>
+<rect x="788.0" y="163.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 27: Harju</title></rect>
+<text x="798.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ha</text>
+<rect x="811.0" y="163.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 28: Fallujah</title></rect>
+<text x="821.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Fa</text>
+<rect x="834.0" y="163.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 29: Narva</title></rect>
+<text x="844.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Na</text>
+<rect x="857.0" y="163.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 30: AlBasrah</title></rect>
+<text x="867.5" y="177.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<text x="182.0" y="209.0" class="t" font-size="12" font-weight="400" text-anchor="end">Discovery</text>
+<rect x="190.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 1: Manicouagan</title></rect>
+<text x="200.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mn</text>
+<rect x="213.0" y="194.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 2: Fallujah</title></rect>
+<text x="223.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Fa</text>
+<rect x="236.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 3: GooseBay</title></rect>
+<text x="246.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="259.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 4: Skorpo</title></rect>
+<text x="269.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Sk</text>
+<rect x="282.0" y="194.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 5: Mutaha</title></rect>
+<text x="292.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mu</text>
+<rect x="305.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 6: BlackCoast</title></rect>
+<text x="315.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">BC</text>
+<rect x="328.0" y="194.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 7: Fallujah</title></rect>
+<text x="338.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Fa</text>
+<rect x="351.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 8: GooseBay</title></rect>
+<text x="361.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="374.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 9: Kohat</title></rect>
+<text x="384.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Kh</text>
+<rect x="397.0" y="194.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 10: Yehorivka</title></rect>
+<text x="407.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ye</text>
+<rect x="420.0" y="194.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 11: Mutaha</title></rect>
+<text x="430.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mu</text>
+<rect x="443.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 12: Kamdesh</title></rect>
+<text x="453.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Kd</text>
+<rect x="466.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 13: AlBasrah</title></rect>
+<text x="476.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<rect x="489.0" y="194.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 14: Gorodok</title></rect>
+<text x="499.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Go</text>
+<rect x="512.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 15: Kohat</title></rect>
+<text x="522.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Kh</text>
+<rect x="535.0" y="194.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 16: Yehorivka</title></rect>
+<text x="545.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ye</text>
+<rect x="558.0" y="194.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 17: Fallujah</title></rect>
+<text x="568.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Fa</text>
+<rect x="581.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 18: Manicouagan</title></rect>
+<text x="591.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mn</text>
+<rect x="604.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 19: GooseBay</title></rect>
+<text x="614.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="627.0" y="194.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 20: Mutaha</title></rect>
+<text x="637.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mu</text>
+<rect x="650.0" y="194.0" width="21.0" height="21.0" rx="3" class="s1"><title>Round 21: Yehorivka</title></rect>
+<text x="660.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ye</text>
+<rect x="673.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 22: Kohat</title></rect>
+<text x="683.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Kh</text>
+<rect x="696.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 23: FoolsRoad</title></rect>
+<text x="706.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">FR</text>
+<rect x="719.0" y="194.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 24: Mutaha</title></rect>
+<text x="729.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Mu</text>
+<rect x="742.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 25: GooseBay</title></rect>
+<text x="752.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">GB</text>
+<rect x="765.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 26: BlackCoast</title></rect>
+<text x="775.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">BC</text>
+<rect x="788.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 27: AlBasrah</title></rect>
+<text x="798.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">AB</text>
+<rect x="811.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 28: Skorpo</title></rect>
+<text x="821.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Sk</text>
+<rect x="834.0" y="194.0" width="21.0" height="21.0" rx="3" class="cell"><title>Round 29: Tallil</title></rect>
+<text x="844.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Ta</text>
+<rect x="857.0" y="194.0" width="21.0" height="21.0" rx="3" class="s2"><title>Round 30: Narva</title></rect>
+<text x="867.5" y="208.5" class="t" font-size="9" font-weight="600" text-anchor="middle">Na</text>
+</svg>
